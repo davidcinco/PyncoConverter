@@ -1,6 +1,7 @@
 You can download the app through the app folder, it contains a .RAR file that needs to be extract to get the single file EXE.
 
 modules added to the virtual enviroment:
+
 altgraph==0.17.4,
 click==8.1.7,
 colorama==0.4.6,
