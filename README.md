@@ -1,7 +1,7 @@
 modules added to the virtual enviroment:
 
 altgraph==0.17.4,
-  click==8.1.7,
+click==8.1.7,
 colorama==0.4.6,
 packaging==24.1,
 pefile==2024.8.26,
