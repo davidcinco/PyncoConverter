@@ -1,5 +1,6 @@
-modules added to the virtual enviroment:
+You can download the app through the app folder, it contains a .RAR file that needs to be extract to get the single file EXE.
 
+modules added to the virtual enviroment:
 altgraph==0.17.4,
 click==8.1.7,
 colorama==0.4.6,
@@ -17,4 +18,4 @@ pytube==15.0.0,
 pytubefix==7.1.3,
 pywin32-ctypes==0.2.3,
 qt6-applications==6.4.3.2.3,
-qt6-tools==6.4.3.1.3,
+qt6-tools==6.4.3.1.3.
