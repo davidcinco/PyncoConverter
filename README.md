@@ -1,4 +1,4 @@
-You can download the app through the app folder, it contains a .RAR file that needs to be extract to get the single file EXE.
+If you want to try it go to the "app" folder, it contains a .RAR file that needs to be extracted to get the single file EXE.
 
 modules added to the virtual enviroment:
 
